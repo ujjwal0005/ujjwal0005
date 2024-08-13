@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m a passionate DevOps Engineer with a strong b
 
 ## 📈 GitHub Stats
 
-![Ujjwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Ujjwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjwal0005&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 📫 Get in Touch
 
