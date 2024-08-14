@@ -15,10 +15,10 @@ Welcome to my GitHub profile! I’m a passionate DevOps Engineer with a strong b
 
 - **Containers & Orchestration**: Docker, Kubernetes
 - **Infrastructure as Code**: Terraform, Ansible
-- **Cloud Platforms**: AWS, Azure, GCP
-- **CI/CD**: Jenkins, GitLab CI, AWS CodePipeline
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
-- **Languages**: Python, Bash, YAML, JSON
+- **Cloud Platforms**: AWS
+- **CI/CD**: Jenkins, GitLab CI, AWS CodePipeline, Github Actions
+- **Monitoring & Logging**: Prometheus, Grafana,Nagios, New Relic
+- **Languages**: Python, Bash, YAML, JSON, PHP, Laravel
 
 ## 📈 GitHub Stats
 
