@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I’m a passionate DevOps Engineer with a strong b
 - **CI/CD**: Jenkins, GitLab CI, AWS CodePipeline, Github Actions
 - **Monitoring & Logging**: Prometheus, Grafana,Nagios, New Relic
 - **Languages**: Python, Bash, YAML, JSON, PHP, Laravel
+- **Security**: CIS Benchmarking, Secure SSH, Firewall Management, Access Control
 
 ## 📈 GitHub Stats
 
