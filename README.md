@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ujjwal Sapkota!</h1>
+<h1 align="center">Ujjwal Sapkota</h1>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/ujjwalsapkota0005/count.svg" alt="Profile views">
