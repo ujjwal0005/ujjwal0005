@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Ujjwal Sapkota!
+<h1 align="center">👋 Hi, I'm Ujjwal Sapkota!</h1>
 
-![Profile views](https://profile-counter.glitch.me/ujjwalsapkota0005/count.svg)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ujjwalsapkota0005/count.svg" alt="Profile views">
+</p>
 
 Welcome to my GitHub profile! I’m a passionate DevOps Engineer with a strong background in Kubernetes, Docker, Linux, Terraform, Ansible, and CI/CD practices. My goal is to leverage my skills to build and maintain efficient, scalable, and reliable infrastructure and applications.
 
