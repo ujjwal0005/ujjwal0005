@@ -1,10 +1,5 @@
 <h1 align="center">Ujjwal Sapkota</h1>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ujjwalsapkota0005/count.svg" alt="Profile views">
-</p>
-
-Welcome to my GitHub profile! I’m a passionate DevOps Engineer with a strong background in Kubernetes, Docker, Linux, Terraform, Ansible, and CI/CD practices. My goal is to leverage my skills to build and maintain efficient, scalable, and reliable infrastructure and applications.
 
 ## 🚀 What I Do
 
@@ -25,10 +20,6 @@ Welcome to my GitHub profile! I’m a passionate DevOps Engineer with a strong b
 - **Languages**: Python, Bash, YAML, JSON, PHP, Laravel
 - **Security**: CIS Benchmarking, Secure SSH, Firewall Management, Access Control
 
-## 📈 GitHub Stats
-
-![Ujjwal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujjwal0005&theme=dark)
-
 ## 📫 Get in Touch
 
 - **LinkedIn**: [linkedin.com/in/ujjwalsapkotadev](https://linkedin.com/in/ujjwalsapkotadev)
@@ -37,7 +28,6 @@ Welcome to my GitHub profile! I’m a passionate DevOps Engineer with a strong b
 
 Feel free to check out my repositories, and don't hesitate to reach out if you have any questions or want to collaborate on a project!
 
----
+## 📈 GitHub Stats
 
-**Let's build the future of technology together!** 🚀
-
+![Ujjwal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujjwal0005&theme=dark)
