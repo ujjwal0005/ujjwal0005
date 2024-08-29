@@ -17,7 +17,7 @@
 - **Cloud Platforms**: AWS
 - **CI/CD**: Jenkins, GitLab CI, AWS CodePipeline, Github Actions
 - **Monitoring & Logging**: Prometheus, Grafana,Nagios, New Relic
-- **Languages**: Python, Bash, YAML, JSON, PHP, Laravel
+- **Languages**: Python, Bash, YAML, JSON, PHP, Laravel, Django
 - **Security**: CIS Benchmarking, Secure SSH, Firewall Management, Access Control
 
 ## 📫 Get in Touch
